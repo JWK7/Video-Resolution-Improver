@@ -1,0 +1,9 @@
+matplotlib==3.7.1
+numpy==1.23.5
+opencv_python==4.7.0.72
+Pillow==9.4.0
+Pillow==11.0.0
+pygame==2.3.0
+Requests==2.32.3
+scipy==1.14.1
+torch==2.0.0
