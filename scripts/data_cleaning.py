@@ -37,8 +37,8 @@ def clean_file(**kwargs):
             i = 0
 
 def main():
-    data_directory = "data/test.txt"
-    cleaned_filename = "data/cleaned_test.csv"
+    data_directory = "data/train.txt"
+    cleaned_filename = "data/cleaned_train.csv"
     clean_file(data_directory = data_directory,cleaned_filename = cleaned_filename,batch_size = 10)
 
 if __name__ == "__main__":
